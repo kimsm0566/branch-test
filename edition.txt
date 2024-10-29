@@ -3,7 +3,7 @@ second edition
 third editionissue resulved
 <<<<<<< HEAD
 hotfix team's solution
-New function added
+New function add
 =======
 hotfix my solution
 Hotfix team's solution
