@@ -1,5 +1,10 @@
 first edition
 second edition
 third editionissue resulved
+<<<<<<< HEAD
 hotfix team's solution
 New function added
+=======
+hotfix my solution
+Hotfix team's solution
+>>>>>>> origin/master
