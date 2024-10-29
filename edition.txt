@@ -3,8 +3,5 @@ second edition
 third editionissue resulved
 <<<<<<< HEAD
 hotfix team's solution
-New function add
-=======
-hotfix my solution
-Hotfix team's solution
->>>>>>> origin/master
+New function added
+team upgraded
